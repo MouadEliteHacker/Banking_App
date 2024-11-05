@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\Banking_Project.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.Account_details.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.Addcustomer.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.Card_Details.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.Form1.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.Mainpage.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.Password_Reinitialisation.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.Payee_info.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\WindowsFormsApp2.registartion.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.Savings_account.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.Staffhome.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.stafftranshistory.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.S_account_creation.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\BankingProject.Usertranshistory.resources
+C:\Users\pc\Desktop\First_year\Banking_App\obj\Debug\Banking_Project.csproj.GenerateResource.cache

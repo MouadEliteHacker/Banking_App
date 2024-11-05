@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.registartion.resources
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\obj\Debug\BankingProject.Mainpage.resources
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\obj\Debug\BankingProject.Properties.Resources.resources
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\bin\Debug\BankingProject.exe.config
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\bin\Debug\BankingProject.exe
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\bin\Debug\BankingProject.pdb
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\obj\Debug\BankingProject.exe
+C:\Users\pc\Desktop\DMUIC VWD\login_form\WindowsFormsApp2\obj\Debug\BankingProject.pdb
