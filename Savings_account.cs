@@ -126,11 +126,13 @@ namespace BankingProject
                 {
                     int Savings = (int)dr["Savings_amount"];
                     if (money_retrieved < Savings)
+                    {
                         dr.Close();
-                    cmd = new SqlCommand("update Balance set Savings_amount= Savings_amount - '" + Convert.ToInt32(textBox2.Text) + "', B_amount = B_amount + '" + Convert.ToInt32(textBox2.Text) + "'where Username ='" + usernam.user + "'", cn);
-                    dr = cmd.ExecuteReader();
-                    MessageBox.Show(" Refresh to check the actual Balance", "Money retrieved");
-                    textBox2.Text = string.Empty;
+                        cmd = new SqlCommand("update Balance set Savings_amount= Savings_amount - '" + Convert.ToInt32(textBox2.Text) + "', B_amount = B_amount + '" + Convert.ToInt32(textBox2.Text) + "'where Username ='" + usernam.user + "'", cn);
+                        dr = cmd.ExecuteReader();
+                        MessageBox.Show(" Refresh to check the actual Balance", "Money retrieved");
+                        textBox2.Text = string.Empty;
+                    }
                 }
                 else
                 {
